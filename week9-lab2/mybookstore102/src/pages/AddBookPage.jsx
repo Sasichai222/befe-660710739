@@ -318,7 +318,7 @@ const AddBookPage = () => {
                 </button>
                 <button
                   type="button"
-                  onClick={() => navigate('/')}
+                  onClick={() => navigate('/allbook')}
                   className="px-6 py-3 border-2 border-gray-300 rounded-lg font-semibold
                     text-gray-700 hover:bg-gray-50 transition-colors"
                 >
